@@ -1,6 +1,6 @@
 ### Auto-Exploratory-Data-Analysis
 
-####Installing required libraries
+- Installing required libraries
 We will start by installing the Dataprep library by using pip. The command given below will do that.
 
 Importing required libraries
