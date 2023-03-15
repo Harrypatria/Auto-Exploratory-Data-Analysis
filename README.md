@@ -19,17 +19,19 @@ PyCaret
 Mljar etc.
 You may please refer to the following videos in the "AutoEDA" Series:
 
-Intro and AutoEDA using Pandas Profiling: https://www.youtube.com/watch?v=KcWV-qMOB-c
-AutoEDA using DTale: https://www.youtube.com/watch?v=2yHQm7zq0EQ
-AutoEDA using LUX: https://www.youtube.com/watch?v=BwIao3Ixgmg
-AutoEDA using DataPrep: https://www.youtube.com/watch?v=_REZYbWUa8w
-AutoEDA using SweetViz: https://www.youtube.com/watch?v=uVLZJ2IA7eE
-Notebook reference:
+### Intro and AutoEDA using 
+- Pandas Profiling: https://www.youtube.com/watch?v=KcWV-qMOB-c
+- AutoEDA using DTale: https://www.youtube.com/watch?v=2yHQm7zq0EQ
+- AutoEDA using LUX: https://www.youtube.com/watch?v=BwIao3Ixgmg
+- AutoEDA using DataPrep: https://www.youtube.com/watch?v=_REZYbWUa8w
+- AutoEDA using SweetViz: https://www.youtube.com/watch?v=uVLZJ2IA7eE
+
+### Notebook reference:
 DataPrep: https://www.kaggle.com/kamal007/autoeda-loanprediction-dataprep/
 
 Interpretation Summary for features on DataPrep:
 
-Key Features
+### Key Features
 
 Analyze distributions
 Analyze correlations
