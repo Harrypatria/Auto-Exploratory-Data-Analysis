@@ -16,3 +16,9 @@ Now we will create an EDA report which contains all the Visualizations, Correlat
 
 
 ![Alt Text](https://miro.medium.com/v2/resize:fit:828/format:webp/1*4eQvXzzRf6orEpQLKg1dpw.png)
+
+- Plot Correlations
+
+This plot creates different types of correlation plots showing correlations between different data variables.
+
+![Alt Text](https://miro.medium.com/v2/resize:fit:720/format:webp/1*aqFMEsqhzsV5IMs3ex8tCw.png)
