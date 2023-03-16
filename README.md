@@ -9,6 +9,7 @@ The EDA (Exploratory Data Analysis) is one of the important parts of the Data Sc
 
 ![Alt Text](https://miro.medium.com/v2/resize:fit:786/format:webp/1*BUZ4YzU0l3FQvDifQZxkhg.jpeg)
 
+### Packages
 Pandas Profiling
 DTale
 LUX
